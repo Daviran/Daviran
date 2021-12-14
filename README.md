@@ -11,12 +11,6 @@ Je m'appelle **David** , j'ai 24 ans et je suis de la région *Hauts-De-France*
    
 3.  Je suis quelqu'un de créatif, je joue de la musique
 
-## Pourquoi le dév?
-
-Ce qui m'attire c'est l'aspect créatif; on développe, programme de A à Z quelque chose qui servira, qui sera utile. N'étant pas très doué manuellement ( je sais faire que des chose basiques...), j'utilise ma tête pour pallier à ce problème :-D 
-
-De plus, je souhaite travailler à l'étranger, quoi de mieux qu'un environnement de travail en anglais pour pouvoir réaliser ce projet?
-
 ## Les technos que je connais ( liste mise à jour régulièrement! ) 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
