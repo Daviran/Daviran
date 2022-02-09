@@ -39,11 +39,11 @@ Je m'appelle **David** , j'ai 25 ans et je suis de la région *Hauts-De-France*.
         <img src="https://img.shields.io/badge/GCP-5849be?style=for-the-badge&logo=gcp&logoColor=white" />
         <img src="https://img.shields.io/badge/docker-316192?style=for-the-badge&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/kubernetes-5849be?style=for-the-badge&logo=kubernetes&logoColor=white" />
-        <img src="https://img.shields.io/badge/jenkins-20232A?style=for-the-badge&logo=jenkins&logoColor=white" />
+        <img src="https://img.shields.io/badge/jenkins-CB3837?style=for-the-badge&logo=jenkins&logoColor=white" />
    
    <h3> La cybersécurité & systèmes/reseaux </h3>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br>
-         <img src="https://img.shields.io/badge/Kali-FCC624?style=for-the-badge&logo=kali&logoColor=black" /><br>
+         <img src="https://img.shields.io/badge/Kali-E34F26?style=for-the-badge&logo=kali&logoColor=black" /><br>
         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /><br>
 
 
