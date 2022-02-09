@@ -5,11 +5,13 @@ Je m'appelle **David** , j'ai 25 ans et je suis de la région *Hauts-De-France*
 
 ## Presentation rapide
 
-1. Je suis _sportif_ depuis ma jeunesse, je passe chaque matinée à faire du sport, souvent très tôt dans la mtinée afin de bien commencer ma journée. C'est **primordial** et me laisse libre champ pour travailler sereinement toute la journée.
+1. Je suis _sportif_ depuis ma jeunesse, je passe chaque matinée à faire du sport, souvent très tôt dans la matinée afin de bien commencer ma journée. C'est **primordial** et me laisse libre champ pour travailler sereinement toute la journée.
 
 2. J'adore la _lecture_ en particulier la littérature classique française.
    
 3.  Je suis quelqu'un de créatif, je joue de la musique
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daviran)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Les technos que je connais ( liste mise à jour régulièrement! ) 
 
@@ -23,3 +25,7 @@ Je m'appelle **David** , j'ai 25 ans et je suis de la région *Hauts-De-France*
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <br />
 <br />
+
+## Repos de certains projets :
+
+à venir! 
