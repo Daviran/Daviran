@@ -1,7 +1,6 @@
 <img alt="My banner" src="https://raw.githubusercontent.com/Daviran/Daviran/main/banner.png" />
-## Informations personnelles
 
-Je m'appelle **David** , j'ai 25 ans et je suis de la région *Hauts-De-France*
+Je m'appelle **David** , j'ai 25 ans et je suis de la région *Hauts-De-France*. Au départ développeur web, j'ai rejoint Epitech pour poursuivre mon cursus informatique, et j'ai découvert de nombreux domaines passionnant: la Cybersécurité, le Cloud, le Devops..
 
 ## Presentation rapide
 
