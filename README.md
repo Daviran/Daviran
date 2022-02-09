@@ -1,4 +1,4 @@
-
+<img  alt="My banner"src="banner.png" />
 ## Informations personnelles
 
 Je m'appelle **David** , j'ai 25 ans et je suis de la région *Hauts-De-France*
