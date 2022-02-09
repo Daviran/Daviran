@@ -12,8 +12,10 @@ Je m'appelle **David** , j'ai 25 ans et je suis de la région *Hauts-De-France*.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daviran&show_icons=true&theme=synthwave) <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daviran&theme=synthwave" />
 
-<div align='center'>
-        <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>💻 Languages and tools I use</h2>
+<div align='left'>
+        <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>💻 Langage et outils utilisés</h2>
+   <h3> Langages et outils web: </h3>
+   
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
@@ -24,7 +26,6 @@ Je m'appelle **David** , j'ai 25 ans et je suis de la région *Hauts-De-France*.
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /><br>
         <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -32,10 +33,12 @@ Je m'appelle **David** , j'ai 25 ans et je suis de la région *Hauts-De-France*.
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />
         <img src="https://img.shields.io/badge/pgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
+   <h3> Le reste 😄 </h3>
         <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br>
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /><br>
+
 </div>
 ## Repos de certains projets :
 
