@@ -48,6 +48,3 @@ Je m'appelle **David** , j'ai 25 ans et je suis de la région *Hauts-De-France*.
 
 
 </div>
-## Repos de certains projets :
-
-à venir! 
