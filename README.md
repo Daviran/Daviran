@@ -11,7 +11,7 @@ Je m'appelle **David** , j'ai 25 ans et je suis de la région *Hauts-De-France*
    
 3.  Je suis quelqu'un de créatif, je joue de la musique
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daviran&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daviran&show_icons=true&theme=synthwave)
 ## Les technos que je connais ( liste mise à jour régulièrement! ) 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
