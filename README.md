@@ -35,12 +35,11 @@ Je m'appelle **David** , j'ai 25 ans et je suis de la région *Hauts-De-France*.
          <img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E" />
    
    <h3> Le cloud & DevOps 😄 </h3>
-   
         <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
         <img src="https://img.shields.io/badge/GCP-5849be?style=for-the-badge&logo=gcp&logoColor=white" />
-           <img src="https://img.shields.io/badge/docker-5849be?style=for-the-badge&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/docker-316192?style=for-the-badge&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/kubernetes-5849be?style=for-the-badge&logo=kubernetes&logoColor=white" />
-        <img src="https://img.shields.io/badge/jenkins-5849be?style=for-the-badge&logo=jenkins&logoColor=white" />
+        <img src="https://img.shields.io/badge/jenkins-20232A?style=for-the-badge&logo=jenkins&logoColor=white" />
    
    <h3> La cybersécurité & systèmes/reseaux </h3>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br>
