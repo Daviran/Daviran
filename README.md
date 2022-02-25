@@ -8,7 +8,7 @@ Je m'appelle **David** , j'ai 25 ans et je suis de la région *Hauts-De-France*.
 
 2. J'adore la _lecture_ en particulier la littérature classique française.
    
-3.  Je suis quelqu'un de créatif, je joue de la musique
+3.  Je suis quelqu'un de créatif, je jouais de la guitare, mais je n'ai plus trop le temps en ce moment..
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daviran&show_icons=true&theme=synthwave) <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daviran&theme=synthwave" />
 
@@ -46,5 +46,8 @@ Je m'appelle **David** , j'ai 25 ans et je suis de la région *Hauts-De-France*.
          <img src="https://img.shields.io/badge/Kali-E34F26?style=for-the-badge&logo=kali&logoColor=black" /><br>
         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /><br>
 
-
+   <h3> En train d'apprendre: </h3>
+    <img src="https://img.shields.io/badge/Flutter-FCC624?style=for-the-badge&logo=flutter&logoColor=yellow" /><br>
+         <img src="https://img.shields.io/badge/Bash-E34F26?style=for-the-badge&logo=bash&logoColor=black" /><br>
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /><br>
 </div>
