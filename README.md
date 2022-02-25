@@ -46,7 +46,7 @@ Je m'appelle **David** , j'ai 25 ans et je suis de la région *Hauts-De-France*.
         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /><br>
 
    <h3> En train d'apprendre: </h3>
-    <img src="https://img.shields.io/badge/Flutter-FCC624?style=for-the-badge&logo=flutter&logoColor=yellow" /><br>
+    <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=yellow" /><br>
          <img src="https://img.shields.io/badge/Bash-E34F26?style=for-the-badge&logo=bash&logoColor=black" /><br>
         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /><br>
 </div>
