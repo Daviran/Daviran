@@ -53,7 +53,7 @@ Je m'appelle **David** , j'ai 25 ans et je suis de la région *Hauts-De-France*.
 
 <div align='center'> 
    <h2> Next repos to come: </h2>
-   - A Jenkins project
-   - A Full PHP project
-   - A Kubernetes project
+   - A Jenkins project <br>
+   - A Full PHP project <br>
+   - A Kubernetes project <br>
       
