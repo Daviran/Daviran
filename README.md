@@ -52,8 +52,14 @@ Je m'appelle **David** , j'ai 25 ans et je suis de la région *Hauts-De-France*.
 </div>
 
 <div align='center'> 
-   <h2> Next repos to come: </h2>
-   - A Jenkins project <br>
-   - A Full PHP project <br>
-   - A Kubernetes project <br>
-      
+   <h2> Prochains repos à venir: </h2>
+   -  Jenkins projet <br>
+   -  Full PHP projet <br>
+   -  Kubernetes projet <br>
+</div>
+<div align='center'>
+   <h2> Actuellement, je fais : </h2>
+   - PicoCTF 2022 : 15 mars au 29 mars 2022, compétition cybersécurité débutant <br>
+   - Skills en GCP: 1er avril au 30 avril 2022 <br>
+   </div> 
+   
