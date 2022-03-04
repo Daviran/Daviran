@@ -49,6 +49,8 @@ Je m'appelle **David** , j'ai 25 ans et je suis de la région *Hauts-De-France*.
         <img src="https://img.shields.io/badge/jenkins-CB3837?style=for-the-badge&logo=jenkins&logoColor=white" />
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
         <img src="https://img.shields.io/badge/GCP-5849be?style=for-the-badge&logo=gcp&logoColor=white" />
+           <img src="https://img.shields.io/badge/Go-1572B6?style=for-the-badge&logo=Go&logoColor=white" />
+
 </div>
 
 <div align='center'> 
