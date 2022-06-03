@@ -55,13 +55,10 @@ Je m'appelle **David** , j'ai 25 ans et je suis de la région *Hauts-De-France*.
 
 <div align='center'> 
    <h2> Prochains repos à venir: </h2>
-   -  Jenkins projet <br>
-   -  Full PHP projet <br>
-   -  Kubernetes projet <br>
+   -  Unity Game avec C# scripts.
 </div>
 <div align='center'>
    <h2> Actuellement, je fais (à côté des projets Epitech):  </h2>
-   - PicoCTF 2022 : 15 mars au 29 mars 2022, compétition cybersécurité débutant <br>
-   - Skills en GCP: 1er avril au 30 avril 2022 <br>
+    -Review des compétences devOps ( Kubernetes, Docker && GitOps) <br>
    </div> 
    
