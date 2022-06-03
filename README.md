@@ -59,6 +59,7 @@ Je m'appelle **David** , j'ai 25 ans et je suis de la région *Hauts-De-France*.
 </div>
 <div align='center'>
    <h2> Actuellement, je fais (à côté des projets Epitech):  </h2>
-    -Review des compétences devOps ( Kubernetes, Docker && GitOps) <br>
+    -Review des compétences devOps ( Kubernetes, Docker && GitOps) 
+   - Parcours Red Team sur TryHackMe<br>
    </div> 
    
