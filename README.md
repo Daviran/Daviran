@@ -55,11 +55,11 @@ Je m'appelle **David** , j'ai 25 ans et je suis de la région *Hauts-De-France*.
 
 <div align='center'> 
    <h2> Prochains repos à venir: </h2>
-   -  Unity Game avec C# scripts.
+   -  Wait & See
 </div>
 <div align='center'>
    <h2> Actuellement, je fais (à côté des projets Epitech):  </h2>
-    -Review des compétences devOps ( Kubernetes, Docker && GitOps) <br>
-   - Parcours Red Team sur TryHackMe<br>
+   - Certification GCP<br>
+   - CTF<br>
    </div> 
    
