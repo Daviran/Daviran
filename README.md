@@ -55,11 +55,7 @@ Je m'appelle **David** , j'ai 26 ans et je suis de la région *Hauts-De-France*.
 
 <div align='center'> 
    <h2> Prochains repos à venir: </h2>
-   -  Wait & See
+   -  Site fitness recensant les exercices
+   - Projet React Native de mini jeux mobiles..
 </div>
-<div align='center'>
-   <h2> Actuellement, je fais (à côté des projets Epitech):  </h2>
-   - Certification GCP<br>
-   - CTF<br>
-   </div> 
    
