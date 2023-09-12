@@ -41,21 +41,5 @@ Je m'appelle **David** , j'ai 26 ans et je suis de la région *Hauts-De-France*.
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br>
          <img src="https://img.shields.io/badge/Kali-E34F26?style=for-the-badge&logo=kali&logoColor=black" /><br>
 
-   <h3> En train d'apprendre: </h3>
-    <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=yellow" /><br>
-         <img src="https://img.shields.io/badge/Bash-E34F26?style=for-the-badge&logo=bash&logoColor=black" /><br>
-        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /><br>
-    <img src="https://img.shields.io/badge/kubernetes-5849be?style=for-the-badge&logo=kubernetes&logoColor=white" />
-        <img src="https://img.shields.io/badge/jenkins-CB3837?style=for-the-badge&logo=jenkins&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-        <img src="https://img.shields.io/badge/GCP-5849be?style=for-the-badge&logo=gcp&logoColor=white" />
-           <img src="https://img.shields.io/badge/Go-1572B6?style=for-the-badge&logo=Go&logoColor=white" />
-
-</div>
-
-<div align='center'> 
-   <h2> Prochains repos à venir: </h2>
-   -  Site fitness recensant les exercices
-   - Projet React Native de mini jeux mobiles..
 </div>
    
